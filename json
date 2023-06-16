@@ -1,1 +1,18 @@
 com.magiskmanagertips1.taikiapps
+
+{
+
+    "ads": 
+      {
+        "max_native_small": "",
+        "Bannerapplovine" : "",
+        "Interapplovine": "",
+        "max_native_normal": "",
+      	"rewordapplovine": "",
+        "PromotedrImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "appfutur_Url" : "https://www.google.com",
+        "PromotedrUrl" : "https://www.google.com"
+      },
+
+
+}
