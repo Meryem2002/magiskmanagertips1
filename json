@@ -1,17 +1,16 @@
-com.magiskmanagertips1.taikiapps
 
 {
 
     "ads": 
       {
-        "max_native_small": "",
-        "Bannerapplovine" : "",
-        "Interapplovine": "",
-        "max_native_normal": "",
-      	"rewordapplovine": "",
-        "PromotedrImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "Bannerapplovine" : "403829a954ec6939",
+        "Interapplovine": "1e46141f17558ff6",
+        "max_native_normal": "d4d0f190e54f5a85",
+        "max_native_small": "07f0d86ff20547ac",
+      	"rewordapplovine": "ce8e72604d879a39",
+        "PromotedrImg" : "",
         "appfutur_Url" : "https://www.google.com",
-        "PromotedrUrl" : "https://www.google.com"
+        "PromotedrUrl" : "https://play.google.com/store/apps/developer?id=TAikiApps"
       },
 
 
